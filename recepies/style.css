@@ -1,0 +1,33 @@
+.fr {
+    color: rgb(102, 148, 9);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+.jr {
+    color: rgb(182, 21, 7);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+.wr {
+    color: rgb(237, 13, 65);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fr h3 {
+    color: green;
+}
+
+button {
+    text-align: center;
+    background-color: rgba(14, 14, 245, 0.473);
+    border-radius: 20px;
+    font-weight: bold;
+}
